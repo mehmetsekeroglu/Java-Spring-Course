@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Spring-Course.iml" filepath="$PROJECT_DIR$/.idea/Java-Spring-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringWeek01Assign01/SpringWeek01Assign01.iml" filepath="$PROJECT_DIR$/SpringWeek01Assign01/SpringWeek01Assign01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringWeek01Assign02/SpringWeek01Assign02.iml" filepath="$PROJECT_DIR$/SpringWeek01Assign02/SpringWeek01Assign02.iml" />
+    </modules>
+  </component>
+</project>
